@@ -1,0 +1,6 @@
+Test/
+Train/
+Validation/
+.idea/
+venv/
+my_plant_disease_model.h5
